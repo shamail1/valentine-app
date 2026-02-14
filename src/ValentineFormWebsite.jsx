@@ -287,7 +287,7 @@ export default function ValentineFormWebsite() {
 
           {step.key === "question" && (
             <div className="question">
-              <p>Will you be my valentines from Shamail?</p>
+              <p>Will you be my valentines from Joseph?</p>
               <div className="answers">
                 <button
                   className="btn btn-primary"
